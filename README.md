@@ -49,7 +49,7 @@ It was a great starting point, and as you can see, I hold the same structure and
 * VSCode for development  
 * Material UI framework  
 * Product details are saved in JSON format.  
-* Text content is stored in JSON (which is easily extended with English).  
+* Text content is stored in JSON (which can be easily extended with English).  
 * Using a carousel, each product can display a variety of images.  
 * Option to filter products based on their themes  
 * Option to send emails with response validation and popup information (EmailJS).  
