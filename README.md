@@ -4,7 +4,7 @@
 ## Concept
 Some family members are creating decorations, and they asked me if I could create a pretty simple "webshop" for them. They didn't want anything complicated, no payment possibilities, no database.
 
-I thought it was a great opportunity to get in touch with React Native, so I said yes. I do not want to share the code. I do not know how nice it is, as I was never a front-end developer, but the real reason is that it may contain information that I would not want to share. I don't want to go through the whole project, so I will only share some screenshots of what it looked like.
+I thought it was a great opportunity to get in touch with React Native, so I said yes. I do not want to share the code. I do not know how nice it is, as I was never a front-end developer, but the real reason is that it may contain information that I would not want to share. I don't want to go through the whole project, so I will only share some screenshots of what it looked like. In the end, unfortunately they had no time to deal with selling these so the site was never used.
 
 I used the following video as a starting point: https://www.youtube.com/watch?v=377AQ0y6LPA
 
